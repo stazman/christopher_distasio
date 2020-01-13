@@ -5,7 +5,7 @@ import CurrProfPhoto from "../images/current-professional-photo.jpg"
 const Main = () => (
   <main    
     style={{background: `#efefef`,
-      marginTop: `3%`,
+      marginTop: `2.5%`,
       padding: 0
     }}
   >
@@ -21,7 +21,7 @@ const Main = () => (
             display: 'grid',
             gridTemplateColumns: 'auto',
             marginLeft: '2rem',
-            // marginRight: '1rem',
+            marginTop: 0,
             minWidth: '85%'
           }}
         >
@@ -32,7 +32,7 @@ const Main = () => (
               fontSize: '24px',
               fontFamily: 'arial',
               textAlign: 'center',
-              padding: '5%',
+              paddingBottom: '2rem',
               justifyContent: 'center'    
             }}
           >
@@ -41,7 +41,7 @@ const Main = () => (
                 fontWeight: 'bold',
                 color: 'navy',
                 padding: 0,
-                marginBottom: '.7rem'
+                marginBottom: '.4rem'
               }}
             >
               Christopher DiStasio,
@@ -212,7 +212,8 @@ const Main = () => (
           style={{
             borderWidth: '2px',
             borderStyle: 'solid',
-            // marginLeft: '1rem',
+            height: '72rem',
+            overflow: 'scroll',
             marginRight: '2rem',
             marginBottom: '2%'
           }}
