@@ -249,11 +249,13 @@ const Main = () => (
             And then there’s the constant learning, but with the ability — in fact, the need — to apply that learning right away as well. Web development allows me to focus on the structural complexities of programs and processes, one complexity at a time, one simplicity that makes up that complexity, at a time.
             <br></br><br></br>
 
-            Since first coming to code,  I’ve developed strong skills as a Flatiron School graduate and as a self-driven learner. From working with freelance clients and developing my own apps and freelance clients, I’ve put into practice my love for code and for helping people achieve their goals. 
+            Since first coming to code,  I’ve developed strong skills as a Flatiron School graduate and as a self-driven learner. From working with freelance clients and developing my own apps, I’ve put into practice my love for code and for helping others achieve their goals.
+            <br></br><br></br>
+
             For example, I’ve built a website for a client with a small business, huntshomeservices.com, and I’ve built an app for a special company event with a client, projectmatchplay.com, both through continuous communication with clients about their often changing needs and through using my skills on a deadline. Apps to be deployed include Daily Weight Loss Advisor, which provides a simple but effective interface for helping users develop daily fitness habits.
             <br></br><br></br>
 
-            I loved being a teacher, and the learning and teaching relationships that came from that experience mean a lot to me, and they always will. As with teams of teachers paying attention to the specific parts of a student’s learning that make up a successful learner, I’ve built strong new relationships with other developers.
+            I loved being a teacher, and the learning and teaching relationships that came from that experience mean a lot to me, and they always will. As I did with many teaching colleagues, I’ve built strong new relationships with other developers.
             <br></br><br></br>
   
             I look forward to working with teams to build and maintain specific parts of a code base to form one working whole experience. And as student’s needs were paramount to me as a teacher, so now are the needs of clients and users. 
