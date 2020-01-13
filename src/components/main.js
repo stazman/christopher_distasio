@@ -29,7 +29,7 @@ const Main = () => (
             class="grid-item" 
             style={{
               border: 'none',
-              fontSize: '24px',
+              fontSize: '18px',
               fontFamily: 'arial',
               textAlign: 'center',
               paddingBottom: '2rem',
@@ -70,8 +70,8 @@ const Main = () => (
                   justifyContent: 'center',    
                   padding: 0,
                   margin: 0,
-                  height: '78%',
-                  width: '56%',
+                  height: '72%',
+                  width: '50%',
                   borderRadius: '50%'
                 }} 
                 src={CurrProfPhoto}
@@ -212,7 +212,7 @@ const Main = () => (
           style={{
             borderWidth: '2px',
             borderStyle: 'solid',
-            height: '72rem',
+            height: '65rem',
             overflow: 'scroll',
             marginRight: '2rem',
             marginBottom: '2%'
@@ -247,6 +247,8 @@ const Main = () => (
             <br></br><br></br>
 
             And then there’s the constant learning, but with the ability — in fact, the need — to apply that learning right away as well. Web development allows me to focus on the structural complexities of programs and processes, one complexity at a time, one simplicity that makes up that complexity, at a time.
+            <br></br><br></br>
+
             Since first coming to code,  I’ve developed strong skills as a Flatiron School graduate and as a self-driven learner. From working with freelance clients and developing my own apps and freelance clients, I’ve put into practice my love for code and for helping people achieve their goals. 
             For example, I’ve built a website for a client with a small business, huntshomeservices.com, and I’ve built an app for a special company event with a client, projectmatchplay.com, both through continuous communication with clients about their often changing needs and through using my skills on a deadline. Apps to be deployed include Daily Weight Loss Advisor, which provides a simple but effective interface for helping users develop daily fitness habits.
             <br></br><br></br>
