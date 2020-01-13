@@ -6,6 +6,8 @@ const Header = ({ siteTitle }) => (
   <header
     style={{
       background: `#efefef`,
+      marginTop: '2%',
+      marginBottom: '1%'
     }}
   >
     <div
@@ -15,7 +17,7 @@ const Header = ({ siteTitle }) => (
         padding: `1.45rem 1.0875rem`,
       }}
     >
-      <h1 style={{textAlign: 'center'}}>
+      <h1 style={{textAlign: 'center', margin: 0}}>
         <Link
           to="/"
           style={{
