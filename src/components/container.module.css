@@ -1,4 +1,6 @@
 .container {
-  margin: 3rem auto;
-  max-width: 600px;
+  min-width: 44%;
+  max-width: 50%;
+  float: left;
+  margin: 0;
 }
