@@ -31,32 +31,30 @@ const Main = () => (
             style={{
               fontFamily: 'arial',
               textAlign: 'center',
-              paddingBottom: '1.6rem',
+              paddingBottom: '1.1rem',
               justifyContent: 'center'    
             }}
           >
             <p
               style={{
-                  fontSize: '1.2rem',
+                  fontSize: '1rem',
                   fontFamily: 'arial',
                   fontWeight: 'bold',
                   color: 'navy',
-                  height: '2rem',
                   textAlign: 'center',
                   padding: 0,
                   margin: 0,
-                  justifyContent: 'center',
+                  justifyContent: 'center'
                 }}
             >
               Christopher DiStasio,
             </p>
             <p
               style={{
-                  fontSize: '1.2rem',
+                  fontSize: '1rem',
                   fontFamily: 'arial',
                   fontWeight: 'bold',
                   color: 'navy',
-                  height: '2rem',
                   textAlign: 'center',
                   padding: 0,
                   margin: 0,
@@ -73,20 +71,18 @@ const Main = () => (
                 display: 'grid',
                 justifyContent: 'center',    
                 gridTemplateColumns: 'auto auto auto'
-                
               }}
             >
               <div
                 className='grid-item'
                 style={{
                   padding: 0,
-                  margin: 0,
-                  minWidth: '33.3%'
+                  margin: 0                
                 }}
               >
                 <p
                   style={{
-                    fontSize: '1.4rem',
+                    fontSize: '1rem',
                     fontFamily: 'arial',
                     fontWeight: 'bold',
                     color: 'navy',
@@ -94,8 +90,8 @@ const Main = () => (
                     display: 'flex',
                     alignItems: 'left',
                     justifyContent: 'left',
-                    paddingTop: '6rem',
-                    paddingRight: '2.5rem'
+                    paddingTop: '4rem',
+                    paddingRight: '1.8rem'
                   }}
                 >
                   <a 
@@ -109,7 +105,7 @@ const Main = () => (
                 </p>
                 <p
                   style={{
-                    fontSize: '1.4rem',
+                    fontSize: '1rem',
                     fontFamily: 'arial',
                     fontWeight: 'bold',
                     color: 'navy',
@@ -117,8 +113,8 @@ const Main = () => (
                     display: 'flex',
                     alignItems: 'left',
                     justifyContent: 'left',
-                    paddingTop: '6rem',
-                    paddingRight: '2.5rem'
+                    paddingTop: '4rem',
+                    paddingRight: '1.8rem'
                   }}
                 >
                   <a 
@@ -134,8 +130,7 @@ const Main = () => (
               <div className='grid-item'
                 style={{
                   padding: 0,
-                  margin: 0,
-                  minWidth: '40%'
+                  margin: 0
                 }} 
                >
                 <img 
@@ -143,8 +138,8 @@ const Main = () => (
                     border: '1px solid',         
                     padding: 0,
                     margin: 0,
-                    height: '24rem',
-                    width: '20rem',
+                    height: '19rem',
+                    width: '16rem',
                     borderRadius: '50%'
                   }} 
                   src={CurrProfPhoto}
@@ -155,13 +150,12 @@ const Main = () => (
                 className='grid-item'
                 style={{
                   padding: 0,
-                  margin: 0,
-                  minWidth: '33.3%'
+                  margin: 0
                 }}
               >
                 <p
                   style={{
-                    fontSize: '1.4rem',
+                    fontSize: '1rem',
                     fontFamily: 'arial',
                     fontWeight: 'bold',
                     color: 'navy',
@@ -169,8 +163,8 @@ const Main = () => (
                     display: 'flex',
                     alignItems: 'right',
                     justifyContent: 'right',
-                    paddingTop: '6rem',
-                    paddingLeft: '2.5rem',
+                    paddingTop: '4rem',
+                    paddingLeft: '1.8rem',
                     paddingRight: 0,
                     marginRight: 0
                   }}
@@ -186,7 +180,7 @@ const Main = () => (
                 </p>
                 <p
                   style={{
-                    fontSize: '1.4rem',
+                    fontSize: '1rem',
                     fontFamily: 'arial',
                     fontWeight: 'bold',
                     color: 'navy',
@@ -194,8 +188,8 @@ const Main = () => (
                     display: 'flex',
                     alignItems: 'right',
                     justifyContent: 'right',
-                    paddingTop: '6rem',
-                    paddingLeft: '2.5rem'
+                    paddingTop: '4rem',
+                    paddingLeft: '1.8rem'
                   }}
                 >
                   <a 
@@ -212,7 +206,7 @@ const Main = () => (
           </div>
           <div className="grid-item"
             style={{
-              fontSize: '1.4rem',
+              fontSize: '1rem',
               fontFamily: 'arial',
               fontWeight: 'bold',
               color: 'navy',
@@ -220,7 +214,7 @@ const Main = () => (
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
-              paddingTop: '2.5rem'
+              paddingTop: '1.6rem'
             }}
           >
             <a 
@@ -241,7 +235,7 @@ const Main = () => (
           style={{
             borderWidth: '2px',
             borderStyle: 'solid',
-            height: '35rem',
+            height: '27rem',
             overflow: 'scroll',
             marginRight: '2rem',
             marginLeft: '1.5rem',
