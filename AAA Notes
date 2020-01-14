@@ -1,9 +1,11 @@
 CURRENT TASKS:
 
 
+DONE Sets links around photo, resets article height for desktop-down design
+
+
 
 DONE Adds, stubs content, inline styles for new main component
-
 
 DONE Adds, stubs container JS component, CSS module
 
@@ -13,4 +15,10 @@ DONE Removes title header, placeholder content
 
 DONE Restores header with new content, styling; removes unneeded code
 
+
+
+
+FUTURE TASKS:
+
+Makes responsive for desktop-down design
 

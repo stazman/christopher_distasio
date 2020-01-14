@@ -9,190 +9,218 @@ const Main = () => (
       padding: 0
     }}
   >
-    <div class='row'
+    <div className='row'
       style={{
         maxHeight: '50%'
       }}
     >
       <Container>
         <div
-          class='grid-container'
+          className='grid-container'
           style={{
             display: 'grid',
             gridTemplateColumns: 'auto',
             marginLeft: '2rem',
+            marginRight: '1.5rem',
             marginTop: 0,
-            minWidth: '85%'
+            width: '92%'
           }}
         >
           <div 
-            class="grid-item" 
+            className="grid-item" 
             style={{
-              border: 'none',
-              fontSize: '18px',
               fontFamily: 'arial',
               textAlign: 'center',
-              paddingBottom: '2rem',
+              paddingBottom: '1.6rem',
               justifyContent: 'center'    
             }}
           >
             <p
               style={{
-                fontWeight: 'bold',
-                color: 'navy',
-                padding: 0,
-                marginBottom: '.4rem'
-              }}
+                  fontSize: '1.2rem',
+                  fontFamily: 'arial',
+                  fontWeight: 'bold',
+                  color: 'navy',
+                  height: '2rem',
+                  textAlign: 'center',
+                  padding: 0,
+                  margin: 0,
+                  justifyContent: 'center',
+                }}
             >
               Christopher DiStasio,
             </p>
             <p
               style={{
-                fontWeight: 'bold',
-                color: 'navy',
-                padding: 0,
-                margin: 0
-              }}
+                  fontSize: '1.2rem',
+                  fontFamily: 'arial',
+                  fontWeight: 'bold',
+                  color: 'navy',
+                  height: '2rem',
+                  textAlign: 'center',
+                  padding: 0,
+                  margin: 0,
+                  justifyContent: 'center'
+                }}
             >
               Full-stack Web Developer
             </p>
           </div>
+          <div className="grid-item">
             <div
-              style={{     
-                display: 'flex',   
-                justifyContent: 'center'  
+              className='grid-container'
+              style={{
+                display: 'grid',
+                justifyContent: 'center',    
+                gridTemplateColumns: 'auto auto auto'
+                
               }}
             >
-              <img 
-                class="grid-item" 
+              <div
+                className='grid-item'
                 style={{
-                  border: 'none',         
-                  justifyContent: 'center',    
                   padding: 0,
                   margin: 0,
-                  height: '72%',
-                  width: '50%',
-                  borderRadius: '50%'
+                  minWidth: '33.3%'
+                }}
+              >
+                <p
+                  style={{
+                    fontSize: '1.4rem',
+                    fontFamily: 'arial',
+                    fontWeight: 'bold',
+                    color: 'navy',
+                    textAlign: 'left',
+                    display: 'flex',
+                    alignItems: 'left',
+                    justifyContent: 'left',
+                    paddingTop: '6rem',
+                    paddingRight: '2.5rem'
+                  }}
+                >
+                  <a 
+                    href='https://tinyurl.com/sswhzd6'
+                    style={{
+                      textDecoration: 'none'
+                    }}
+                  >
+                    Resume
+                  </a>
+                </p>
+                <p
+                  style={{
+                    fontSize: '1.4rem',
+                    fontFamily: 'arial',
+                    fontWeight: 'bold',
+                    color: 'navy',
+                    textAlign: 'left',
+                    display: 'flex',
+                    alignItems: 'left',
+                    justifyContent: 'left',
+                    paddingTop: '6rem',
+                    paddingRight: '2.5rem'
+                  }}
+                >
+                  <a 
+                    href='https://github.com/stazman?tab=repositories'
+                    style={{
+                      textDecoration: 'none'
+                    }}
+                  >
+                    Github
+                  </a>
+                </p>
+              </div>
+              <div className='grid-item'
+                style={{
+                  padding: 0,
+                  margin: 0,
+                  minWidth: '40%'
                 }} 
-                src={CurrProfPhoto}
-                alt="Christopher DiStasio"
-              />
+               >
+                <img 
+                  style={{
+                    border: '1px solid',         
+                    padding: 0,
+                    margin: 0,
+                    height: '24rem',
+                    width: '20rem',
+                    borderRadius: '50%'
+                  }} 
+                  src={CurrProfPhoto}
+                  alt="Christopher DiStasio"
+                />
+              </div>
+              <div
+                className='grid-item'
+                style={{
+                  padding: 0,
+                  margin: 0,
+                  minWidth: '33.3%'
+                }}
+              >
+                <p
+                  style={{
+                    fontSize: '1.4rem',
+                    fontFamily: 'arial',
+                    fontWeight: 'bold',
+                    color: 'navy',
+                    textAlign: 'right',
+                    display: 'flex',
+                    alignItems: 'right',
+                    justifyContent: 'right',
+                    paddingTop: '6rem',
+                    paddingLeft: '2.5rem',
+                    paddingRight: 0,
+                    marginRight: 0
+                  }}
+                >
+                  <a 
+                    href='https://medium.com/commcodia'
+                    style={{
+                      textDecoration: 'none'
+                    }}
+                  >
+                    Blog
+                  </a>
+                </p>
+                <p
+                  style={{
+                    fontSize: '1.4rem',
+                    fontFamily: 'arial',
+                    fontWeight: 'bold',
+                    color: 'navy',
+                    textAlign: 'right',
+                    display: 'flex',
+                    alignItems: 'right',
+                    justifyContent: 'right',
+                    paddingTop: '6rem',
+                    paddingLeft: '2.5rem'
+                  }}
+                >
+                  <a 
+                    href='https://www.linkedin.com/in/christopher-distasio-8b035444/'
+                    style={{
+                      textDecoration: 'none'
+                    }}
+                  >
+                    LinkedIn
+                  </a>
+                </p>
+              </div>
             </div>
-          <div 
-            class="grid-item" 
-            style={{
-              border: 'none',         
-              height: '2rem',
-            }}
-          >
           </div>
-          <div 
-            class="grid-item" 
+          <div className="grid-item"
             style={{
-              border: 'none',         
-              fontSize: '26px',
+              fontSize: '1.4rem',
               fontFamily: 'arial',
               fontWeight: 'bold',
               color: 'navy',
-              height: '6.5rem',
               textAlign: 'center',
               display: 'flex',
               alignItems: 'center',
-              justifyContent: 'center'
-            }}
-          >
-            <a 
-              href='https://tinyurl.com/sswhzd6'
-              style={{
-                textDecoration: 'none'
-              }}
-            >
-              Resume
-            </a>
-          </div>
-          <div 
-            class="grid-item" 
-            style={{
-              border: 'none',         
-              fontSize: '26px',
-              fontFamily: 'arial',
-              fontWeight: 'bold',
-              color: 'navy',
-              height: '6.5rem',
-              textAlign: 'center',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center'
-            }}
-          >
-            <a 
-              href='https://github.com/stazman?tab=repositories'
-              style={{
-                textDecoration: 'none'
-              }}
-            >
-              Github
-            </a>
-          </div>  
-          <div 
-            class="grid-item" 
-            style={{
-              border: 'none',         
-              fontSize: '26px',
-              fontFamily: 'arial',
-              fontWeight: 'bold',
-              color: 'navy',
-              height: '6.5rem',
-              textAlign: 'center',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center'
-            }}
-          >
-            <a 
-              href='https://medium.com/commcodia'
-              style={{
-                textDecoration: 'none'
-              }}
-            >
-              Blog
-            </a>
-          </div>
-          <div class="grid-item"
-            style={{
-              border: 'none',         
-              fontSize: '26px',
-              fontFamily: 'arial',
-              fontWeight: 'bold',
-              color: 'navy',
-              height: '6.5rem',
-              textAlign: 'center',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center'
-            }}
-          >
-            <a 
-              href='https://www.linkedin.com/in/christopher-distasio-8b035444/'
-              style={{
-                textDecoration: 'none'
-              }}
-            >
-              LinkedIn
-            </a>
-          </div>
-          <div class="grid-item"
-            style={{
-              border: 'none',         
-              fontSize: '26px',
-              fontFamily: 'arial',
-              fontWeight: 'bold',
-              color: 'navy',
-              height: '6.5rem',
-              textAlign: 'center',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center'
+              justifyContent: 'center',
+              paddingTop: '2.5rem'
             }}
           >
             <a 
@@ -203,18 +231,20 @@ const Main = () => (
             >
               Email
             </a>
-          </div>
+        </div>
         </div>
       </Container>
 
       <Container>
+        
         <article 
           style={{
             borderWidth: '2px',
             borderStyle: 'solid',
-            height: '65rem',
+            height: '35rem',
             overflow: 'scroll',
             marginRight: '2rem',
+            marginLeft: '1.5rem',
             marginBottom: '2%'
           }}
         >
@@ -229,9 +259,9 @@ const Main = () => (
             }}
           >
             I didn’t start out my adult life as a web developer, but now I know what I was missing.
-          <br></br><br></br>
+            <br></br><br></br>
 
-            When I was an English teacher, I constantly sought out ways to make learning more efficient and effective for my students. I used a wide variety of web-based tools and adapted them to make more class-specific tools that students used to maximize their learning.
+            When I was an English teacher, I constantly sought out ways to make learning more efficient and effective for my students. I used a wide variety of web-based tools and adapted them to make more className-specific tools that students used to maximize their learning.
             <br></br><br></br>
 
             But then I fell in love with coding. 
@@ -258,7 +288,7 @@ const Main = () => (
             I loved being a teacher, and the learning and teaching relationships that came from that experience mean a lot to me, and they always will. As I did with many teaching colleagues, I’ve built strong new relationships with other developers.
             <br></br><br></br>
   
-            I look forward to working with teams to build and maintain specific parts of a code base to form one working whole experience. And as student’s needs were paramount to me as a teacher, so now are the needs of clients and users. 
+            I look forward to working with teams to build and maintain specific parts of a code base to form one  whole experience. And as student’s needs were paramount to me as a teacher, so now are the needs of clients and users. 
           </p> 
         </article>
       </Container>
