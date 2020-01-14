@@ -5,8 +5,8 @@ import React from "react"
 const Header = ({ siteTitle }) => (
   <header
     style={{
-      marginTop: '2%',
-      marginBottom: '1%'
+      marginTop: '1.5%',
+      marginBottom: '.8%'
     }}
   >
     <div
@@ -16,7 +16,7 @@ const Header = ({ siteTitle }) => (
         padding: `1.45rem 1.0875rem`,
       }}
     >
-      <h2 style={{textAlign: 'center', margin: 0}}>
+      <h1 style={{textAlign: 'center', margin: 0}}>
         <Link
           to="/"
           style={{
@@ -26,7 +26,7 @@ const Header = ({ siteTitle }) => (
         >
           {siteTitle}
         </Link>
-      </h2>
+      </h1>
     </div>
   </header>
 )
