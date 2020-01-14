@@ -5,13 +5,13 @@ import CurrProfPhoto from "../images/current-professional-photo.jpg"
 const Main = () => (
   <main    
     style={{background: `#efefef`,
-      marginTop: `2.5%`,
+      marginTop: `3.5%`,
       padding: 0
     }}
   >
     <div className='row'
       style={{
-        maxHeight: '50%'
+        minHeight: '65%'
       }}
     >
       <Container>
@@ -118,7 +118,7 @@ const Main = () => (
                   }}
                 >
                   <a 
-                    href='https://github.com/stazman?tab=repositories'
+                    href='https://github.com/stazman'
                     style={{
                       textDecoration: 'none'
                     }}
