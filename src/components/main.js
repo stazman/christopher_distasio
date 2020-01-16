@@ -95,7 +95,7 @@ const Main = () => (
                   }}
                 >
                   <a 
-                    href='https://tinyurl.com/w7yn9hl'
+                    href='https://tinyurl.com/rsna3yz'
                     style={{
                       textDecoration: 'none'
                     }}
@@ -223,7 +223,7 @@ const Main = () => (
                 textDecoration: 'none'
               }}
             >
-              Email
+              cadistasio@gmail.com
             </a>
         </div>
         </div>
