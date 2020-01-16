@@ -95,7 +95,7 @@ const Main = () => (
                   }}
                 >
                   <a 
-                    href='https://tinyurl.com/sswhzd6'
+                    href='https://tinyurl.com/w7yn9hl'
                     style={{
                       textDecoration: 'none'
                     }}
