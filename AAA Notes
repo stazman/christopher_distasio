@@ -4,7 +4,7 @@ CURRENT TASKS:
 DONE Article container wraps to second line, image stays consistent at lower breakpoints
 
 
-Adds, stubs styled component for media queries at lower breakpoints
+DONE Adds, stubs styled component for media queries at lower breakpoints
 
 
 Edits, adds demo, completed project website links to article content
@@ -14,6 +14,12 @@ Edits, adds demo, completed project website links to article content
 
 FUTURE TASKS:
 
+
+Sets breakpoints for keeping containers on one line between 1024 and 1224 profile width
+
+Sets breakpoints for extra small device widths
+
+Checks, edits breakpoints for landscape orientation across all widths
 
 Creates, moves inline styles to external stylesheet components
 
