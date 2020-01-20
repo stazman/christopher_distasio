@@ -1,20 +1,30 @@
 import React from "react"
-import Container from "./container"
-import CurrProfPhoto from "../images/current-professional-photo.jpg"
+import CurrProfPhoto from "../images/best-professional-photo.jpg"
 
 const Main = () => (
   <main    
     style={{background: `#efefef`,
-      marginTop: `3.5%`,
+      marginTop: `1%`,
       padding: 0
     }}
   >
-    <div className='row'
+
+    <div className='flex-container'
       style={{
-        minHeight: '65%'
+        display: 'flex',
+        flexDirection: 'row',
+        flexWrap: 'wrap',
+        justifyContent: 'space-around'
       }}
     >
-      <Container>
+      <div class='flex-item'
+        style={{
+          display: 'flex',
+          width: '34rem',
+          margin: 0,
+          padding: 0
+        }}
+      >
         <div
           className='grid-container'
           style={{
@@ -22,8 +32,7 @@ const Main = () => (
             gridTemplateColumns: 'auto',
             marginLeft: '2rem',
             marginRight: '1.5rem',
-            marginTop: 0,
-            width: '92%'
+            marginTop: 0
           }}
         >
           <div 
@@ -37,29 +46,29 @@ const Main = () => (
           >
             <p
               style={{
-                  fontSize: '1rem',
-                  fontFamily: 'arial',
-                  fontWeight: 'bold',
-                  color: 'navy',
-                  textAlign: 'center',
-                  padding: 0,
-                  margin: 0,
-                  justifyContent: 'center'
-                }}
+                fontSize: '1rem',
+                fontFamily: 'arial',
+                fontWeight: 'bold',
+                color: 'navy',
+                textAlign: 'center',
+                padding: 0,
+                margin: 0,
+                justifyContent: 'center'
+              }}
             >
               Christopher DiStasio,
             </p>
             <p
               style={{
-                  fontSize: '1rem',
-                  fontFamily: 'arial',
-                  fontWeight: 'bold',
-                  color: 'navy',
-                  textAlign: 'center',
-                  padding: 0,
-                  margin: 0,
-                  justifyContent: 'center'
-                }}
+                fontSize: '1rem',
+                fontFamily: 'arial',
+                fontWeight: 'bold',
+                color: 'navy',
+                textAlign: 'center',
+                padding: 0,
+                margin: 0,
+                justifyContent: 'center'
+              }}
             >
               Full-stack Web Developer
             </p>
@@ -74,10 +83,10 @@ const Main = () => (
               }}
             >
               <div
-                className='grid-item'
+                className='grid-item-left'
                 style={{
                   padding: 0,
-                  margin: 0                
+                  margin: 0
                 }}
               >
                 <p
@@ -89,15 +98,15 @@ const Main = () => (
                     textAlign: 'left',
                     display: 'flex',
                     alignItems: 'left',
-                    justifyContent: 'left',
-                    paddingTop: '4rem',
-                    paddingRight: '1.8rem'
+                    justifyContent: 'left'
                   }}
                 >
                   <a 
                     href='https://tinyurl.com/rsna3yz'
                     style={{
-                      textDecoration: 'none'
+                      textDecoration: 'none',
+                      paddingTop: '4rem',
+                      paddingRight: '1.8rem'
                     }}
                   >
                     Resume
@@ -112,34 +121,36 @@ const Main = () => (
                     textAlign: 'left',
                     display: 'flex',
                     alignItems: 'left',
-                    justifyContent: 'left',
-                    paddingTop: '4rem',
-                    paddingRight: '1.8rem'
+                    justifyContent: 'left'
                   }}
                 >
                   <a 
                     href='https://github.com/stazman'
                     style={{
-                      textDecoration: 'none'
+                      textDecoration: 'none',
+                      paddingTop: '4rem',
+                      paddingRight: '1.8rem'
                     }}
                   >
                     Github
                   </a>
                 </p>
               </div>
-              <div className='grid-item'
+              <div className='grid-item-center'
                 style={{
                   padding: 0,
-                  margin: 0
+                  margin: 0,
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center'
                 }} 
-               >
+              >
                 <img 
                   style={{
                     border: '1px solid',         
                     padding: 0,
                     margin: 0,
-                    height: '19rem',
-                    width: '16rem',
+                    height: 'auto',
                     borderRadius: '50%'
                   }} 
                   src={CurrProfPhoto}
@@ -147,7 +158,7 @@ const Main = () => (
                 />
               </div>
               <div
-                className='grid-item'
+                className='grid-item-right'
                 style={{
                   padding: 0,
                   margin: 0
@@ -163,8 +174,6 @@ const Main = () => (
                     display: 'flex',
                     alignItems: 'right',
                     justifyContent: 'right',
-                    paddingTop: '4rem',
-                    paddingLeft: '1.8rem',
                     paddingRight: 0,
                     marginRight: 0
                   }}
@@ -172,7 +181,9 @@ const Main = () => (
                   <a 
                     href='https://medium.com/commcodia'
                     style={{
-                      textDecoration: 'none'
+                      textDecoration: 'none',
+                      paddingTop: '4rem',
+                      paddingLeft: '1.8rem'
                     }}
                   >
                     Blog
@@ -188,14 +199,14 @@ const Main = () => (
                     display: 'flex',
                     alignItems: 'right',
                     justifyContent: 'right',
-                    paddingTop: '4rem',
-                    paddingLeft: '1.8rem'
                   }}
                 >
                   <a 
                     href='https://www.linkedin.com/in/christopher-distasio-8b035444/'
                     style={{
-                      textDecoration: 'none'
+                      textDecoration: 'none',
+                      paddingTop: '4rem',
+                      paddingLeft: '1.8rem'
                     }}
                   >
                     LinkedIn
@@ -204,41 +215,65 @@ const Main = () => (
               </div>
             </div>
           </div>
-          <div className="grid-item"
-            style={{
-              fontSize: '1rem',
-              fontFamily: 'arial',
-              fontWeight: 'bold',
-              color: 'navy',
-              textAlign: 'center',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center',
-              paddingTop: '1.6rem'
-            }}
-          >
-            <a 
-              href='mailto:cadistasio@gmail.com'
+
+            <div className="grid-item"
               style={{
-                textDecoration: 'none'
+                fontSize: '1rem',
+                fontFamily: 'arial',
+                fontWeight: 'bold',
+                color: 'navy',
+                textAlign: 'center',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                paddingTop: '1rem'
               }}
             >
-              cadistasio@gmail.com
-            </a>
-        </div>
-        </div>
-      </Container>
+              <a 
+                href='mailto:cadistasio@gmail.com'
+                style={{
+                  textDecoration: 'none'
+                }}
+              >
+                  cadistasio@gmail.com
+              </a>
+            </div>
 
-      <Container>
-        
+            <div class="grid-item-line-space"
+              style={{
+                fontSize: '1.5rem',
+                fontFamily: 'arial',
+                fontWeight: 'bold',
+                color: 'navy',
+                textAlign: 'center',
+                alignItems: 'center',
+                justifyContent: 'center',
+                paddingTop: 0,
+                paddingBottom: '1.5rem',
+                display: 'flex'
+              }}
+            >
+            </div>
+
+          </div>
+        </div>
+
+      <div
+        className='flex-item'
+        style={{
+          display: 'flex',
+          width: '34rem',
+          height: '100%'
+        }}
+      >
         <article 
           style={{
             borderWidth: '2px',
             borderStyle: 'solid',
-            height: '27rem',
+            height: '30rem',
             overflow: 'scroll',
             marginRight: '2rem',
-            marginLeft: '1.5rem',
+            marginLeft: '3rem',
             marginBottom: '2%'
           }}
         >
@@ -285,10 +320,11 @@ const Main = () => (
             I look forward to working with teams to build and maintain specific parts of a code base to form one  whole experience. And as student’s needs were paramount to me as a teacher, so now are the needs of clients and users. 
           </p> 
         </article>
-      </Container>
+      </div>
 
     </div>
-  </main>
+  
+  </main>  
 )
 
 export default Main

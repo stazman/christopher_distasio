@@ -1,9 +1,32 @@
 CURRENT TASKS:
 
 
+DONE Article container wraps to second line, image stays consistent at lower breakpoints
+
+
+Adds, stubs styled component for media queries at lower breakpoints
+
+
+Edits, adds demo, completed project website links to article content
+
+
+
+
+FUTURE TASKS:
+
+
+Creates, moves inline styles to external stylesheet components
+
+Removes !important from media queries
+
+
+
+FINISHED TASKS:
+
+
+DONE Stubs responsiveness for desktop-down design
+
 DONE Sets links around photo, resets article height for desktop-down design
-
-
 
 DONE Adds, stubs content, inline styles for new main component
 
@@ -14,11 +37,4 @@ DONE Replaces placeholder image with current professional photo
 DONE Removes title header, placeholder content
 
 DONE Restores header with new content, styling; removes unneeded code
-
-
-
-
-FUTURE TASKS:
-
-Makes responsive for desktop-down design
 
