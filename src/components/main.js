@@ -59,8 +59,7 @@ const MediaQueries = styled.div`
           style={{
             display: 'flex',
             width: '34rem',
-            margin: 0,
-            padding: 0
+            marginLeft: '1rem'
           }}
         >
           <div
@@ -300,8 +299,7 @@ const MediaQueries = styled.div`
           className='flex-item'
           style={{
             display: 'flex',
-            width: '34rem',
-            height: '100%'
+            width: '34rem'
           }}
         >
           <article
