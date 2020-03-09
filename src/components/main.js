@@ -139,7 +139,7 @@ const MediaQueries = styled.div`
                     }}
                   >
                     <a
-                      href='https://tinyurl.com/rahfnao'
+                      href='https://tinyurl.com/wq4ch8b'
                       style={{
                         textDecoration: 'none',
                         paddingTop: '4rem',
