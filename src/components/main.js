@@ -323,37 +323,13 @@ const MediaQueries = styled.div`
                 margin: 0
               }}
             >
-              I didn’t start out my adult life as a web developer, but now I know what I was missing.
+              Full-stack web developer experienced in developing apps to address a wide variety of interests and demands, whether it’s trying to stay fit, build a small business, or solve an escape room challenge. Able to solve coding and business challenges quickly, from strong foundational programming skills and effective development processes gained from the Flatiron Software Engineering Bootcamp, freelance clients, and self study, with a commitment to and constant motivation toward lifelong learning.
               <br></br><br></br>
-  
-              When I was an English teacher, I constantly sought out ways to make learning more efficient and effective for my students. I used a wide variety of web-based tools and adapted them to make more class-specific tools that students used to maximize their learning.
+              Focused on the complete needs of users, building on a disposition and passion to care gained from 17 years of working with English as a Second Language students from a diverse range of backgrounds, skill levels, and cultures, often within the same class. Transitioning to web development after seeing how using and developing lessons from web-based tools transformed my classrooms in efficiency and effectiveness. Able to work independently but also used to working among diverse groups of colleagues and performing a variety of roles among them.
               <br></br><br></br>
-  
-              But then I fell in love with coding.
+              Basically, I'm the full package.
               <br></br><br></br>
-  
-              Through web development, I can and do give the same attention to detail I did when I was a teacher. I can create my own tools for the functional, expressive, and aesthetic needs of the user and even create new experiences for them.
-              <br></br><br></br>
-  
-              Performing as a web developer is not just about aiming to make certain processes more efficient; it’s focused on efficiency itself. I can engage the same penchant for solving problems as I did when I was a teacher, but now I can see the results of the solutions, as well as test those solutions and the improvements they make, right away.
-              <br></br><br></br>
-  
-              Coding allows me to use my skill set even more fully. And through developing websites and software, I can reach an even greater number of people with a greater diversity of needs and interests.
-              <br></br><br></br>
-  
-              And then there’s the constant learning, but with the ability — in fact, the need — to apply that learning right away as well. Web development allows me to focus on the structural complexities of programs and processes, one complexity at a time, one simplicity that makes up that complexity, at a time.
-              <br></br><br></br>
-  
-              Since first coming to code,  I’ve developed strong skills as a Flatiron School graduate and as a self-driven learner. Also, from working with freelance clients and developing my own apps, I’ve put into practice my love for code and for helping others achieve their goals.
-              <br></br><br></br>
-  
-              For example, I’ve built a website for a client with a small business, at <a style={{textDecoration: 'none'}} href='https://huntshomerepairservices.com/'>huntshomerepairservices.com</a>, and I’ve built an app for an escape room company event, at <a style={{textDecoration: 'none'}} href='http://www.projectmatchplay.com/'>projectmatchplay.com</a>, both through continuous communication with clients about their often changing needs and through using my skills on a deadline. Apps to be deployed include <a style={{textDecoration: 'none'}} href='https://www.youtube.com/watch?v=fTgWNosxvIk&feature=youtu.be'>Daily Weight Loss Advisor</a>, which provides a simple but effective interface for helping users develop daily fitness habits.
-              <br></br><br></br>
-  
-              I loved working with other teachers to address students' needs. The learning and teaching relationships that came from that experience mean a lot to me, and they always will. As I did with teaching colleagues, I’ve built strong new relationships with other developers.
-              <br></br><br></br>
-    
-              I look forward to working with teams to build and maintain specific parts of a code base to form one  whole experience. And as student’s needs were paramount to me as a teacher, so now are the needs of clients and users.
+              AJAX, APIs, Atom, AWS Elastic Beanstalk, back end web developer, Bootstrap, Capybara, cPanel, C#, CSS, Eclipse, ERB, Faraday, front end web developer, Express.js, Gatsby, Git, Github, Heroku, HTML, Java (SE 13), JavaScript, JBoss, jQuery, JSON, JSP, JSTL, Linux, MacOS, MongoDB, .Net, Node.js, OmniAuth, PostgreSQL, Postman, Pry, React, React-Bootstrap, Redux, REST, RSpec, Ruby on Rails, SEO, Servlets, Sessions, Sqlite3, styled-components, TDD, Webpack, WildFly 
             </p>
           </article>
         </div>
