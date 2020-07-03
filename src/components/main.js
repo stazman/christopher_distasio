@@ -324,11 +324,11 @@ const MediaQueries = styled.div`
                 margin: 0
               }}
             >
-              Full-stack web developer experienced in developing apps to address a wide variety of interests and demands, whether it’s trying to stay fit, build a small business, or solve an escape room challenge. Able to solve coding and business challenges quickly, from strong foundational programming skills and effective development processes gained from the Flatiron Software Engineering Bootcamp, freelance clients, and self study, with a commitment to and constant motivation toward lifelong learning.
+              Full-stack web developer experienced in developing apps to address a wide variety of interests and demands, whether it’s trying to stay fit, build a small business, or solve an escape room challenge. Able to solve coding and business challenges quickly, from strong foundational programming skills and effective development processes gained from the Flatiron Software Engineering Bootcamp and freelance clients, with a commitment to and constant motivation toward lifelong learning.
               <br></br><br></br>
-              Focused on the complete needs of users, building on a disposition and passion to care gained from 17 years of working with English as a Second Language students from a diverse range of backgrounds, skill levels, and cultures, often within the same class. Transitioning to web development after seeing how using and developing lessons from web-based tools transformed my classrooms in efficiency and effectiveness. Able to work independently but also used to working among diverse groups of colleagues and performing a variety of roles among them.
+              Focused on the complete needs of users, building on a disposition and passion to care gained from 17 years of working with English as a Second Language students from a diverse range of backgrounds, skill levels, and cultures. Transitioning to web development after seeing how using and developing lessons from web-based tools transformed my classrooms in efficiency and effectiveness. Able to work independently but also used to working among diverse teams of colleagues and performing a variety of roles among them.
               <br></br><br></br>
-              Basically, I'm the full package.
+              Basically, the full package.
               <br></br><br></br>
               AJAX, APIs, Atom, AWS Elastic Beanstalk, back end web developer, Bootstrap, Capybara, cPanel, C#, CSS, Eclipse, ERB, Faraday, front end web developer, Express.js, Gatsby, Git, Github, Heroku, HTML, Java (SE 13), JavaScript, JBoss, jQuery, JSON, JSP, JSTL, Linux, MacOS, MongoDB, .Net, Node.js, OmniAuth, PostgreSQL, Postman, Pry, React, React-Bootstrap, Redux, REST, RSpec, Ruby on Rails, SEO, Servlets, Sessions, Sqlite3, styled-components, TDD, Webpack, WildFly 
             </p>
