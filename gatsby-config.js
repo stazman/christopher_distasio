@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Coming to Code`,
+    title: `Trained, practiced, ready to go`,
     description: `Personal Brand Site for Christopher DiStasio`,
     author: `Christopher DiStasio`,
   },
