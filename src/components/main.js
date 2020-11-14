@@ -2,15 +2,15 @@ import React from "react"
 import CurrProfPhoto from "../images/best-professional-photo.jpg"
 import { device } from "./device"
 import styled from 'styled-components'
- 
+
 const MediaQueries = styled.div`
- 
+
   @media ${device.laptopL} {
     .grid-item-line-space {
       padding-top: 1.5rem!important;
       padding-bottom: 1.5rem!important;
   }
-  
+
   @media ${device.mobileL} {
     img {
       height: 10rem!important;
@@ -37,16 +37,16 @@ const MediaQueries = styled.div`
     }
   }
   `
-  
+
   const Main = () => (
   <MediaQueries>
-    <main   
+    <main
       style={{background: `#efefef`,
         marginTop: `1%`,
         padding: 0
       }}
     >
-  
+
       <div className='flex-container'
         style={{
           display: 'flex',
@@ -78,7 +78,7 @@ const MediaQueries = styled.div`
                 fontFamily: 'arial',
                 textAlign: 'center',
                 paddingBottom: '1.1rem',
-                justifyContent: 'center'   
+                justifyContent: 'center'
               }}
             >
               <p
@@ -115,7 +115,7 @@ const MediaQueries = styled.div`
                 className='grid-container'
                 style={{
                   display: 'grid',
-                  justifyContent: 'center',   
+                  justifyContent: 'center',
                   gridTemplateColumns: 'auto auto auto'
                 }}
               >
@@ -184,7 +184,7 @@ const MediaQueries = styled.div`
                 >
                   <img
                     style={{
-                      border: '1px solid',        
+                      border: '1px solid',
                       padding: 0,
                       margin: 0,
                       height: '70%',
@@ -253,7 +253,7 @@ const MediaQueries = styled.div`
                 </div>
               </div>
             </div>
-  
+
               <div className="grid-item"
                 style={{
                   fontSize: '1rem',
@@ -276,7 +276,7 @@ const MediaQueries = styled.div`
                     cadistasio@gmail.com
                 </a>
               </div>
-  
+
               <div class="grid-item-line-space"
                 style={{
                   fontSize: '1.5rem',
@@ -292,10 +292,10 @@ const MediaQueries = styled.div`
                 }}
               >
               </div>
-  
+
             </div>
           </div>
-  
+
         <div
           className='flex-item'
           style={{
@@ -326,17 +326,17 @@ const MediaQueries = styled.div`
             >
               Are you looking for the full package as a developer? Look no further! I'm Christopher, a full-stack developer experienced in building and maintaining apps to meet a wide variety of demands, whether it’s trying to stay fit, build a small business, or solve an escape room challenge. I'm able to solve coding and business challenges quickly, from strong foundational programming skills and effective development processes gained from the Flatiron Software Engineering Bootcamp and freelance clients, with a commitment to and constant motivation toward lifelong learning.
               <br></br><br></br>
-              I'm truly focused on the complete needs of users and customers, both internal and external ones, building on a disposition and passion to care gained from nearly two decades of working with English as a Second Language students from a diverse range of backgrounds, skill levels, and cultures. Although I work well on my own, I'm well used to working among diverse teams of colleagues, at times performing as a leader and teacher educator, and always deadset on student success, no matter the role. I transitioned to web development after seeing how using and developing lessons from web-based tools transformed my classrooms in efficiency and effectiveness. Now as a developer and software engineer, I help make, maintain, and improve the tools themselves. 
+              I'm truly focused on the complete needs of users and customers, both internal and external ones, building on a disposition and passion to care gained from nearly two decades of working with English as a Second Language students from a diverse range of backgrounds, skill levels, and cultures. Although I work well on my own, I'm well used to working among diverse teams of colleagues, at times performing as a leader and teacher educator, and always deadset on student success, no matter the role. I transitioned to web development after seeing how using and developing lessons from web-based tools transformed my classrooms in efficiency and effectiveness. Now as a developer and software engineer, I help make, maintain, and improve the tools themselves.
               <br></br><br></br>
-              Technical Skills: AJAX, APIs, ASP.NET, Atom, AWS Elastic Beanstalk, back end web developer, Bootstrap, Capybara, cPanel, C#, CSS, Eclipse, ERB, Faraday, front controller design pattern, front end web developer, Express.js, Gatsby, Git, Github, Heroku, HTML, Java (EE8), JavaScript, JBoss, jQuery, JSON, JSP, JSTL, JUnit, Linux, MacOS, Maven, MongoDB, Netlify, Node.js, OmniAuth, PostgreSQL, Postman, Pry, React, React-Bootstrap, Redux, REST, RSpec, Ruby on Rails, SEO, Servlets, Sessions, Sqlite3, styled-components, TDD, Tomcat Catalina, Webpack, WildFly
+              Technical Skills: Angular 10, AJAX, APIs, ASP.NET, Atom, AWS EC2, AWS Elastic Beanstalk, AWS RDS, Axios, back end web developer, Bootstrap, Capybara, cPanel, C#, CSS, DBeaver, Eclipse, ERB, Faraday, front controller design pattern, front end web developer, Express.js, Gatsby, Git, Github, Heroku, HTML, Java (EE8), JavaScript, JBoss, JDBC, Jenkins, jQuery, JSON, JSP, JSTL, JUnit, Linux, MacOS, Maven, MongoDB, MVC design pattern, Netlify, Node.js, OmniAuth, PgAdmin, PLSQL, PostgreSQL, Postman, Pry, React, React-Bootstrap, Redux, REST, RSpec, Ruby on Rails, SEO, Servlets, Sessions, Sqlite3, styled-components, TDD, Tomcat Catalina, TypeScript, Webpack, WildFly
             </p>
           </article>
         </div>
-  
+
       </div>
-    
-    </main> 
+
+    </main>
   </MediaQueries>
 )
- 
+
 export default Main
