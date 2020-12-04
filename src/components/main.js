@@ -139,7 +139,7 @@ const MediaQueries = styled.div`
                     }}
                   >
                     <a
-                      href='https://tinyurl.com/ybjlrq4k'
+                      href='https://tinyurl.com/y3do934w'
                       style={{
                         textDecoration: 'none',
                         paddingTop: '4rem',
@@ -188,7 +188,7 @@ const MediaQueries = styled.div`
                       padding: 0,
                       margin: 0,
                       height: '70%',
-                      width: '70%',
+                      width: '50%',
                       borderRadius: '50%'
                     }}
                     src={CurrProfPhoto}
@@ -328,7 +328,7 @@ const MediaQueries = styled.div`
               <br></br><br></br>
               I'm truly focused on the complete needs of users and customers, both internal and external ones, building on a disposition and passion to care gained from nearly two decades of working with English as a Second Language students from a diverse range of backgrounds, skill levels, and cultures. Although I work well on my own, I'm well used to working among diverse teams of colleagues, at times performing as a leader and teacher educator, and always deadset on student success, no matter the role. I transitioned to web development after seeing how using and developing lessons from web-based tools transformed my classrooms in efficiency and effectiveness. Now as a developer and software engineer, I help make, maintain, and improve the tools themselves.
               <br></br><br></br>
-              Technical Skills: Angular 10, AJAX, APIs, ASP.NET, Atom, AWS EC2, AWS Elastic Beanstalk, AWS RDS, Axios, back end web developer, Bootstrap, Capybara, cPanel, C#, CSS, DBeaver, Eclipse, ERB, Faraday, front controller design pattern, front end web developer, Express.js, Gatsby, Git, Github, Heroku, HTML, Java (EE8), JavaScript, JBoss, JDBC, Jenkins, jQuery, JSON, JSP, JSTL, JUnit, Linux, MacOS, Maven, MongoDB, MVC design pattern, Netlify, Node.js, OmniAuth, PgAdmin, PLSQL, PostgreSQL, Postman, Pry, React, React-Bootstrap, Redux, REST, RSpec, Ruby on Rails, SEO, Servlets, Sessions, Sqlite3, styled-components, TDD, Tomcat Catalina, TypeScript, Webpack, WildFly
+              Technical Skills: Angular 10, AJAX, APIs, ASP.NET, Atom, AWS EC2, AWS Elastic Beanstalk, AWS RDS, Axios, back end web developer, Bootstrap, Capybara, cPanel, C#, CSS, DBeaver, Eclipse, ERB, Faraday, front controller design pattern, front end web developer, Express.js, Gatsby, Git, Github, Heroku, HTML, Java (EE8), JavaScript, JBoss, JDBC, Jenkins, jQuery, JSON, JSP, JSTL, JUnit, Linux, MacOS, Maven, MongoDB, MVC design pattern, Netlify, Node.js, OmniAuth, PgAdmin, PLSQL, PostgreSQL, Postman, Pry, React, React-Bootstrap, Redux, REST, RSpec, Ruby on Rails, SEO, Servlets, Sessions, Sqlite3, styled-components, TDD, Tomcat Catalina, TypeScript, Webpack, WildFly 
             </p>
           </article>
         </div>
