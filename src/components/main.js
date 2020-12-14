@@ -1,5 +1,5 @@
 import React from "react"
-import CurrProfPhoto from "../images/best-professional-photo.jpg"
+import CurrProfPhoto from "../images/better-profile-pic.HEIC"
 import { device } from "./device"
 import styled from 'styled-components'
 
