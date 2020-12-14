@@ -25,7 +25,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/better-profile-pic.HEIC`      },
+        icon: `src/images/new-best-pro-photo.jpg`      },
     },
   ],
 }
