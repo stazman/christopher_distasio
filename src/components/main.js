@@ -139,7 +139,7 @@ const MediaQueries = styled.div`
                     }}
                   >
                     <a
-                      href='https://tinyurl.com/y3do934w'
+                      href='https://tinyurl.com/y4g655q6'
                       style={{
                         textDecoration: 'none',
                         paddingTop: '4rem',
@@ -324,9 +324,9 @@ const MediaQueries = styled.div`
                 margin: 0
               }}
             >
-              Are you looking for the full package as a developer? Look no further! I'm Christopher, a full-stack developer experienced in building and maintaining apps to meet a wide variety of demands, whether it’s trying to stay fit, build a small business, or solve an escape room challenge. I'm able to solve coding and business challenges quickly, from strong foundational programming skills and effective development processes gained from the Flatiron Software Engineering Bootcamp and freelance clients, with a commitment to and constant motivation toward lifelong learning.
+              I’m Christopher, a full-stack developer with the knowledge and skill to tackle any programming need. I code to create great user experiences, learn continuously about code, and help others learn to code as well. And I'm passionate about solving coding and business challenges quickly, from strong foundational programming skills and effective development processes gained from the Flatiron Software Engineering Bootcamp, Revature, and freelance clients. Whether it's working with a team programmers or communicating with my own freelance clients, I approach all involved with a total customer service mindset.
               <br></br><br></br>
-              I'm truly focused on the complete needs of users and customers, both internal and external ones, building on a disposition and passion to care gained from nearly two decades of working with English as a Second Language students from a diverse range of backgrounds, skill levels, and cultures. Although I work well on my own, I'm well used to working among diverse teams of colleagues, at times performing as a leader and teacher educator, and always deadset on student success, no matter the role. I transitioned to web development after seeing how using and developing lessons from web-based tools transformed my classrooms in efficiency and effectiveness. Now as a developer and software engineer, I help make, maintain, and improve the tools themselves.
+              Not only am I equipped with years of programming knowledge and experience, my passion for teaching code stems from a disposition and passion to care gained from working with language students from a diverse range of backgrounds, skill levels, and cultures. Furthermore, when teaching, I've served as a strong leader as well as team member, with extensive experience working among diverse teams of colleagues and presenting about successful classroom experiences.
               <br></br><br></br>
               Technical Skills: Angular 10, AJAX, APIs, ASP.NET, Atom, AWS EC2, AWS Elastic Beanstalk, AWS RDS, Axios, back end web developer, Bootstrap, Capybara, cPanel, C#, CSS, DBeaver, Eclipse, ERB, Faraday, front controller design pattern, front end web developer, Express.js, Gatsby, Git, Github, Heroku, HTML, Java (EE8), JavaScript, JBoss, JDBC, Jenkins, jQuery, JSON, JSP, JSTL, JUnit, Linux, MacOS, Maven, MongoDB, MVC design pattern, Netlify, Node.js, OmniAuth, PgAdmin, PLSQL, PostgreSQL, Postman, Pry, React, React-Bootstrap, Redux, REST, RSpec, Ruby on Rails, SEO, Servlets, Sessions, Sqlite3, styled-components, TDD, Tomcat Catalina, TypeScript, Webpack, WildFly
             </p>
