@@ -162,7 +162,7 @@ const MediaQueries = styled.div`
                     }}
                   >
                     <a
-                      href='https://github.com/stazman'
+                      href='https://drive.google.com/file/d/1bRvquJPSZB41lR6Wy4K0x9bOhOSY_Sug/view?usp=sharing'
                       style={{
                         textDecoration: 'none',
                         paddingTop: '4rem',
