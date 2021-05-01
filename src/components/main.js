@@ -139,7 +139,7 @@ const MediaQueries = styled.div`
                     }}
                   >
                     <a
-                      href='https://tinyurl.com/y4g655q6'
+                      href='https://drive.google.com/file/d/198plSg4nHprL2iE5KzDkPS5ACMRSFSAJ/view?usp=sharing'
                       style={{
                         textDecoration: 'none',
                         paddingTop: '4rem',
