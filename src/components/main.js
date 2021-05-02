@@ -139,7 +139,7 @@ const MediaQueries = styled.div`
                     }}
                   >
                     <a
-                      href='https://drive.google.com/file/d/1RxEF8O7xtj4-ge_g3PcgAt1DCGDNKazF/view?usp=sharing'
+                      href='https://christopher-distasio.s3.amazonaws.com/Resume-Christopher-DiStasio.pdf'
                       style={{
                         textDecoration: 'none',
                         paddingTop: '4rem',
@@ -328,7 +328,7 @@ const MediaQueries = styled.div`
               <br></br><br></br>
               Not only am I equipped with years of programming knowledge and experience, my passion for teaching code stems from a disposition and passion to care gained from working with language students from a diverse range of backgrounds, skill levels, and cultures. Furthermore, when teaching, I've served as a strong leader as well as team member, with extensive experience working among diverse teams of colleagues and presenting about successful classroom experiences.
               <br></br><br></br>
-              Technical Skills: Angular 10, AJAX, APIs, ASP.NET, Atom, AWS EC2, AWS Elastic Beanstalk, AWS RDS, Axios, back end web developer, Bootstrap, Capybara, cPanel, C#, CSS, DBeaver, Eclipse, ERB, Faraday, front controller design pattern, front end web developer, Express.js, Gatsby, Git, Github, Heroku, HTML, Java (EE8), JavaScript, JBoss, JDBC, Jenkins, jQuery, JSON, JSP, JSTL, JUnit, Linux, MacOS, Maven, MongoDB, MVC design pattern, Netlify, Node.js, OmniAuth, PgAdmin, PLSQL, PostgreSQL, Postman, Pry, React, React-Bootstrap, Redux, REST, RSpec, Ruby on Rails, SEO, Servlets, Sessions, Sqlite3, styled-components, TDD, Tomcat Catalina, TypeScript, Webpack, WildFly
+              Technical Skills: AJAX, Amazon Web Services, Angular 10, APIs, ASP.NET, Axios, Bootstrap, Capybara, cPanel, CSS, DBeaver, Eclipse, ERB, Faraday, Express.js, Gatsby, Git, Github, Heroku, Hibernate, HTML, Intellij, Java (EE8), JavaScript, JBoss, JDBC, Jenkins, jQuery, JSON, JSP, JSTL, JUnit, Linux, Maven, MongoDB, MySQL, Netlify, Node.js, OmniAuth, PgAdmin, PLSQL, PostgreSQL, Postman, React, React-Bootstrap, Redux, REST, RSpec, Ruby on Rails, SEO, Servlets, Sessions, Sqlite3, Spring, styled-components, TDD, Tomcat Catalina, TypeScript, Webpack, WildFly
             </p>
           </article>
         </div>
