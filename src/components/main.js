@@ -116,7 +116,7 @@ const MediaQueries = styled.div`
                 style={{
                   display: 'grid',
                   justifyContent: 'center',
-                  gridTemplateColumns: 'auto 50% auto'
+                  gridTemplateColumns: '25% 50% 25%'
                 }}
               >
                 <div
