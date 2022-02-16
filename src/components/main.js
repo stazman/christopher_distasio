@@ -107,7 +107,7 @@ const MediaQueries = styled.div`
                   justifyContent: 'center'
                 }}
               >
-                Full-stack Web Developer
+                Content Creator and Editor/Software Developer
               </p>
             </div>
             <div className="grid-item">
@@ -139,7 +139,7 @@ const MediaQueries = styled.div`
                     }}
                   >
                     <a
-                      href='https://christopher-distasio.s3.amazonaws.com/Resume-Christopher-DiStasio.pdf'
+                      href='https://resume-christopher-distasio.s3.filebase.com/Current-Resume-Christopher-DiStasio.pdf'
                       style={{
                         textDecoration: 'none',
                         paddingTop: '4rem',
@@ -324,7 +324,7 @@ const MediaQueries = styled.div`
                 margin: 0
               }}
             >
-              I’m Christopher, a full-stack developer with the knowledge and skill to tackle any programming need. I code to create great user experiences, learn continuously about code, and help others learn to code as well. And I'm passionate about solving coding and business challenges quickly, from strong foundational programming skills and effective development processes gained from the Flatiron Software Engineering Bootcamp, Revature, and freelance clients. Whether it's working with a team programmers or communicating with my own freelance clients, I approach all involved with a total customer service mindset.
+              I’m Christopher, a marketing content creator and editor with substantial experience in the crypto and blockchain space, as well as a software developer with the knowledge and skill to tackle any programming need. I code to create great user experiences, learn continuously about code, and help others learn to code as well. And I'm passionate about solving coding and business challenges quickly, from strong foundational programming skills and effective development processes gained from the Flatiron Software Engineering Bootcamp, Revature, and freelance clients. Whether it's working with a team programmers or communicating with my own freelance clients, I approach all involved with a total customer service mindset.
               <br></br><br></br>
               Not only am I equipped with years of programming knowledge and experience, my passion for teaching code stems from a disposition and passion to care gained from working with language students from a diverse range of backgrounds, skill levels, and cultures. Furthermore, when teaching, I've served as a strong leader as well as team member, with extensive experience working among diverse teams of colleagues and presenting about successful classroom experiences.
               <br></br><br></br>
