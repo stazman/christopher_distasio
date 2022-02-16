@@ -188,8 +188,8 @@ const MediaQueries = styled.div`
                       padding: 0,
                       margin: 0,
                       height: '100%',
-                      width: '70%',
-                      borderRadius: '50%'
+                      width: '82%',
+                      borderRadius: '75%'
                     }}
                     src={CurrProfPhoto}
                     alt="Christopher DiStasio"
