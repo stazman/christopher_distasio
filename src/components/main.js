@@ -93,7 +93,7 @@ const MediaQueries = styled.div`
                   justifyContent: 'center'
                 }}
               >
-                Chris DiStasio,
+                Christopher DiStasio,
               </p>
               <p
                 style={{
