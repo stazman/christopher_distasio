@@ -93,7 +93,7 @@ const MediaQueries = styled.div`
                   justifyContent: 'center'
                 }}
               >
-                Christopher DiStasio,
+                Chris DiStasio,
               </p>
               <p
                 style={{
@@ -324,7 +324,7 @@ const MediaQueries = styled.div`
                 margin: 0
               }}
             >
-              I’m Chris D, a software developer with the knowledge and skill to tackle any programming need.
+              I’m Chris D, a web developer with the knowledge and skill to tackle any programming need.
               <br></br><br></br>
               I love to create great user experiences and solve coding and business challenges quickly, from strong foundational programming skills and effective development processes gained from the Flatiron Software Engineering Bootcamp, Revature, and freelance clients. Whether it's communicating among a team of programmers, or with my own freelance clients, software engineering students, or blog post readers, I approach all involved with a total customer service mindset.
               <br></br><br></br>
